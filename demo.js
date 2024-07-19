@@ -24,7 +24,7 @@ async function main() {
   ]
 
   // Call endpoint
-  const response = await client.post('/sanctions/screening', request)
+  const response = await client.post('v1/sanctions/screening', request)
 
   // Print response
   console.log(response.data)
