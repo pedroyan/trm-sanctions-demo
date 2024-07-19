@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "https://github.com/pedroyan/trm-sanctions-demo.git",
   "author": "Pedro Yan Ornelas <pedroyane@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.2"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
 }
