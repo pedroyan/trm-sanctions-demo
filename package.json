@@ -1,0 +1,8 @@
+{
+  "name": "trm-sanctions-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pedroyan/trm-sanctions-demo.git",
+  "author": "Pedro Yan Ornelas <pedroyane@gmail.com>",
+  "license": "MIT"
+}
